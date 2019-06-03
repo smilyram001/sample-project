@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>gmn</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.234.33.230:8081/repository/gmn-paytm-release/</url>
+	      <url>http://13.234.232.155:8081/repository/gmn-paytm-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>gmn</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.234.33.230:8081/repository/gmn-paytm-snopshot/</url>
+	      <url>http://13.234.232.155:8081/repository/gmn-paytm-snopshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
