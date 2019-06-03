@@ -24,7 +24,7 @@
 		Mithun Technologies, 
 		Martha Halli,Opp To Madhurai Iddly House
 		Bangalore.
-		+91-6300605858.
+		+91-7207307289.
 	</span>
 </div>
 <hr>
