@@ -21,7 +21,7 @@
 
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Technologies, 
+		Murugan Technologies, 
 		Martha Halli,Opp To Madhurai Iddly House
 		Bangalore.
 		+91-9741640519.
