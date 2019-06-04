@@ -5,9 +5,9 @@
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
-	<version>2.0-SNAPSHOT</version>
+	<version>5.0-SNAPSHOT</version>
 	
-	<name>Maven Web Application</name>
+	<name>MURUGAN-TECHNOLAGY</name>
 	<url>http://mithuntechnologies.com</url>
 	
 	<description>Maven Web Project</description>
@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>gmn</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.234.232.155:8081/repository/gmn-paytm-release/</url>
+	      <url>http://13.235.16.254:8081/repository/gmn-paytm-release/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>gmn</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.234.232.155:8081/repository/gmn-paytm-snopshot/</url>
+	      <url>http://13.235.16.254:8081/repository/gmn-paytm-snopshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
