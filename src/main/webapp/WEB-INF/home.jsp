@@ -24,7 +24,7 @@
 		Murugan Technologies, 
 		Martha Halli,Opp To Madhurai Iddly House
 		Bangalore.
-		+91-9741640519.
+		+91-6300605858.
 	</span>
 </div>
 <hr>
